@@ -1,4 +1,4 @@
-# <img src="images/favicon-32x32.png"> Frontend Mentor - Social proof section solution
+# Frontend Mentor - Social proof section solution
 
 <img src="design/desktop-design.jpg">
 
